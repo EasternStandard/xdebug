@@ -1,4 +1,6 @@
 # Summary
 
-* [What is XYZ?](first-question.md)
-* [How can I do X?](second-question.md)
+* [Introduction](README.md)
+* [What is XDebug?](first-question.md)
+* [Installing and Configuring XDebug in Vagrant](second-question.md)
+
