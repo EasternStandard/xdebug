@@ -17,7 +17,7 @@ You will need to make these changes to four separate files:
 
 Each of those files should contain the following configuration:
 
-```
+```text
 zend_extension=xdebug.so
 xdebug.remote_enable=1
 xdebug.remote_connect_back=1
