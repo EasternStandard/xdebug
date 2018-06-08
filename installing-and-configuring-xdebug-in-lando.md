@@ -7,5 +7,5 @@ config:
   xdebug: true
 ```
 
-
+One other troubleshooting tip: if you've included that line in your config file, and the `launch.json` file is configured properly, and you don't know if XDebug is being turned on or not, you can use `phpinfo()` on a page and check that the `php.ini` file you created is actually being loaded. I used the filename `xdebug.vscode.ini` so I'd be able to differentiate that file from anything else that might be automatically loaded.
 
